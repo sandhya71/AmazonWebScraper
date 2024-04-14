@@ -1,4 +1,4 @@
-![AMAZON WEB SCRAPPPING](https://github.com/sandhya71/AmazonWebScraper/assets/53564959/e2b05449-dcad-4aae-9d12-ce1d91fa4dcf)
+                                        ![AMAZON WEB SCRAPPPING](https://github.com/sandhya71/AmazonWebScraper/assets/53564959/e2b05449-dcad-4aae-9d12-ce1d91fa4dcf)
 
 **Amazon Web Scraper**
 
