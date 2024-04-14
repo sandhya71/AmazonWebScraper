@@ -20,7 +20,3 @@ This Python script extracts data from Amazon's website, including product inform
 
 **Disclaimer:**
 This scraper is intended for educational and research purposes only. Use it responsibly and at your own risk.
-
----
-
-Feel free to adjust the summary as needed to reflect the specific details and features of your scraper.
