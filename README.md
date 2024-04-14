@@ -1,5 +1,6 @@
 
 **Amazon Web Scraper**
+
 This Python script extracts data from Amazon's website, including product information such as prices, descriptions, reviews, and ratings. It's built using the BeautifulSoup library for parsing HTML content and the requests library for sending HTTP requests.
 
 **Features:**
